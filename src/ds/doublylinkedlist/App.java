@@ -5,9 +5,16 @@ public class App {
         DoublyLinkedList doubleDList = new DoublyLinkedList();
         doubleDList.insertFirst(1);
         doubleDList.insertFirst(2);
+
         doubleDList.insertLast(3);
         doubleDList.insertLast(4);
-        doubleDList.deleteLast().displayNode();
+
+        System.out.print("deleteKey(): ");
+        doubleDList.deleteKey(1).displayNode();
+        System.out.print("deleteKey(): "); doubleDList.deleteKey(2).displayNode();
+
+//        doubleDList.deleteLast().displayNode();
+//        doubleDList.deleteLast().displayNode();
         doubleDList.displayList();
 
 
