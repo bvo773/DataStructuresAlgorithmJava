@@ -1,7 +1,5 @@
 package algo.linearsearch;
 
-
-
 public class LinearApp {
 
     public static int linearSearch(int[] arr, int key) {
