@@ -21,8 +21,10 @@ public class BinarySearchApp {
         }
         return -1;
     }
+
+
     public static void main(String[] args) {
-        int[] arr = new int[] {3, 11, 21, 29, 41, 54, 61, 78, 110, 127};
-        System.out.println(binarySearch(78, arr));
+        //int[] arr = new int[] {3, 11, 21, 29, 41, 54, 61, 78, 110, 127};
+        //System.out.println(binarySearch(78, arr));
     }
 }

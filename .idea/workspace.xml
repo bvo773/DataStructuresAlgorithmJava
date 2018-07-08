@@ -2,10 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795842f1-fb58-496f-91db-dea67a7938b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algo/selectionsort/SelectionSortApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/algo/binarysearch/BinarySearchApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/algo/binarysearch/BinarySearchApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructures/algo/linearsearch/LinearApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/algo/linearsearch/LinearApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo/linearsearch/LinearApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/linearsearch/LinearApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/CircularLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/CircularLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/QueueLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/QueueLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/StackLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/StackLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/DoublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/linkedlist/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/linkedlist/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/linkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/linkedlist/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/IQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/IQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/SinglyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/AppStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/AppStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/GenericStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/GenericStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/iStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/iStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,21 +47,26 @@
       <file leaf-file-name="LinearApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algo/linearsearch/LinearApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="195">
               <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding>
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearchApp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinarySearchApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="405">
+              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectionSortApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algo/selectionsort/SelectionSortApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -88,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/ds/doublylinkedlist/DoublyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/algo/linearsearch/LinearApp.java" />
         <option value="$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java" />
+        <option value="$PROJECT_DIR$/src/algo/selectionsort/SelectionSortApp.java" />
       </list>
     </option>
   </component>
@@ -97,7 +125,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="953" />
     <option name="y" value="2" />
     <option name="width" value="973" />
@@ -109,45 +137,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="linearsearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearchApp">
+  <component name="RunManager" selected="Application.SelectionSortApp">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ds.doublylinkedlist.App" />
       <module name="DataStructures" />
@@ -216,6 +230,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algo.linearsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SelectionSortApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.selectionsort.SelectionSortApp" />
+      <module name="DataStructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo.selectionsort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,9 +297,11 @@
       <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.LinearApp" />
       <item itemvalue="Application.BinarySearchApp" />
+      <item itemvalue="Application.SelectionSortApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSortApp" />
         <item itemvalue="Application.BinarySearchApp" />
         <item itemvalue="Application.LinearApp" />
         <item itemvalue="Application.App (1)" />
@@ -305,29 +332,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32893288" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32890365" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3278302" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.4770355" side_tool="true" weight="0.39914164" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49895614" visible="true" weight="0.32665095" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32893288" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895614" weight="0.32779622" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.25470653" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17110874" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17083333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.52296454" weight="0.3985849" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.52296454" weight="0.39869282" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -378,17 +405,10 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="49" />
+      <option name="time" value="54" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ds/singlyLinkedList/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ds/singlyLinkedList/SinglyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -438,13 +458,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12141">
-          <caret line="639" selection-start-line="639" selection-end-line="639" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/ClassLoader.java" />
     <entry file="file://$PROJECT_DIR$/src/ds/queue/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
@@ -515,13 +529,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/Override.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/Override.java" />
     <entry file="file://$PROJECT_DIR$/src/ds/stack/iStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -543,62 +551,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="817" selection-start-line="817" selection-end-line="817" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="365" selection-start-line="365" selection-end-line="365" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="591" selection-start-line="591" selection-end-line="591" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="184" selection-start-line="184" selection-end-line="184" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/StringLatin1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="173" selection-start-line="173" selection-end-line="173" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="1514" selection-start-line="1514" selection-end-line="1514" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="1022" selection-start-line="1022" selection-end-line="1022" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="641" selection-start-line="641" selection-end-line="641" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/io/PrintStream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/System.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/StringLatin1.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/ClassLoader.java" />
     <entry file="file://$PROJECT_DIR$/src/ds/singlyLinkedList/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -613,13 +573,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/Object.java" />
     <entry file="file://$PROJECT_DIR$/src/ds/singlyLinkedList/SinglyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -721,19 +675,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algo/linearsearch/LinearApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="195">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="405">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo/selectionsort/SelectionSortApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
         </state>
       </provider>
     </entry>
@@ -753,6 +710,18 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
