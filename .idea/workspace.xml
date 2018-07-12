@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795842f1-fb58-496f-91db-dea67a7938b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algo/selectionsort/SelectionSortApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/algo/binarysearch/BinarySearchApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/algo/binarysearch/BinarySearchApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/algo/linearsearch/LinearApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/algo/linearsearch/LinearApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/CircularLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/CircularLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/QueueLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/QueueLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/StackLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/StackLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/DoublyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/linkedlist/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/linkedlist/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/linkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/linkedlist/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/IQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/IQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/SinglyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/AppStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/AppStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/GenericStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/GenericStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/iStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/iStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/algo/selectionsort/SelectionSortApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/algo/selectionsort/SelectionSortApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo/insertionsort/InsertionSortApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/insertionsort/InsertionSortApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,32 +18,17 @@
     <SUITE FILE_PATH="coverage/DataStructures$App.ic" NAME="App Coverage Results" MODIFIED="1529177022253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>ds.circulalarlinkedlist.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructAlgo$InsertionSortApp.ic" NAME="InsertionSortApp Coverage Results" MODIFIED="1531174539362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>algo.insertionsort.*</FILTER>
+    </SUITE>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LinearApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algo/linearsearch/LinearApp.java">
+      <file leaf-file-name="InsertionSortApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algo/insertionsort/InsertionSortApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinarySearchApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SelectionSortApp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algo/selectionsort/SelectionSortApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+            <state relative-caret-position="58">
+              <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -116,6 +78,7 @@
         <option value="$PROJECT_DIR$/src/algo/linearsearch/LinearApp.java" />
         <option value="$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java" />
         <option value="$PROJECT_DIR$/src/algo/selectionsort/SelectionSortApp.java" />
+        <option value="$PROJECT_DIR$/src/algo/insertionsort/InsertionSortApp.java" />
       </list>
     </option>
   </component>
@@ -137,6 +100,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,12 +120,38 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="insertionsort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="linearsearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="selectionsort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -189,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelectionSortApp">
+  <component name="RunManager" selected="Application.InsertionSortApp">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ds.doublylinkedlist.App" />
       <module name="DataStructures" />
@@ -201,17 +192,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.circulalarlinkedlist.App" />
-      <module name="DataStructures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ds.circulalarlinkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="BinarySearchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algo.binarysearch.BinarySearchApp" />
       <module name="DataStructures" />
@@ -219,6 +199,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algo.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="InsertionSortApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.insertionsort.InsertionSortApp" />
+      <module name="DataStructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo.insertionsort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,19 +284,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.singlyLinkedListApp" />
-      <item itemvalue="Application.App" />
       <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.LinearApp" />
       <item itemvalue="Application.BinarySearchApp" />
       <item itemvalue="Application.SelectionSortApp" />
+      <item itemvalue="Application.InsertionSortApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSortApp" />
         <item itemvalue="Application.SelectionSortApp" />
         <item itemvalue="Application.BinarySearchApp" />
         <item itemvalue="Application.LinearApp" />
         <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -343,8 +334,9 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.4770355" side_tool="true" weight="0.39914164" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49895614" visible="true" weight="0.32665095" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895614" weight="0.32665095" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32893288" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3298611" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.25470653" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -353,10 +345,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.52296454" weight="0.3985849" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.52296454" visible="true" weight="0.3985849" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -367,14 +358,14 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.46659708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -405,24 +396,10 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="54" />
+      <option name="time" value="56" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ds/singlyLinkedList/SinglyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ds/singlyLinkedList/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ds/singlyLinkedList/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -673,6 +650,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algo/linearsearch/LinearApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -680,17 +664,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algo/binarysearch/BinarySearchApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/algo/insertionsort/insertionSort.jpeg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algo/selectionsort/SelectionSortApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+        <state relative-caret-position="360">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo/insertionsort/InsertionSortApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
         </state>
       </provider>
     </entry>
