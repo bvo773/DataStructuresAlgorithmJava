@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795842f1-fb58-496f-91db-dea67a7938b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/ArrayAndStringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/HashingHashTables/HashingandHashTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,35 +31,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeSortApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MergeSortApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="493">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#657#658#0" expanded="true" />
                 <element signature="e#690#691#0" expanded="true" />
                 <element signature="e#783#784#0" expanded="true" />
-                <element signature="e#810#811#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayAndStringManipulation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/ArrayAndStringManipulation.java">
+      <file leaf-file-name="MergingMeetingTimes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/MergingMeetingTimes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashingandHashTables.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/HashingHashTables/HashingandHashTables.java">
+      <file leaf-file-name="ReverseStringInPlace.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/ReverseStringInPlace.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseWords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/ReverseWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -114,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/algo/selectionsort/SelectionSortApp.java" />
         <option value="$PROJECT_DIR$/src/algo/insertionsort/InsertionSortApp.java" />
         <option value="$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java" />
+        <option value="$PROJECT_DIR$/src/interviewcake/sec2HashingHashTables/HashingandHashTables.java" />
       </list>
     </option>
   </component>
@@ -152,6 +158,13 @@
               <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interviewcake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interviewcake" type="462c0819:PsiDirectoryNode" />
               <item name="sec1ArrayStringManipulation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -329,7 +342,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32893288" />
@@ -342,15 +355,15 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.32636815" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32893288" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32960597" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" weight="0.20895523" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" visible="true" weight="0.20848484" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13099042" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17596567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5223642" visible="true" weight="0.36119404" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5223642" weight="0.44" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -411,28 +424,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ds/singlyLinkedList/SinglyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ds/singlyLinkedList/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/ClassLoader.java" />
-    <entry file="file://$PROJECT_DIR$/src/ds/queue/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="30" lean-forward="true" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ds/queue/IQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -671,16 +662,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java">
+    <entry file="file://$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/HashingHashTables/HashingandHashTables.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interviewcake/sec2HashingHashTables/HashingandHashTables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -691,10 +683,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/HashingHashTables/HashingandHashTables.java">
+    <entry file="file://$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/MergingMeetingTimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/ReverseStringInPlace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interviewcake/sec1ArrayStringManipulation/ReverseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
