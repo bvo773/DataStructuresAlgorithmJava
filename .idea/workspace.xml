@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795842f1-fb58-496f-91db-dea67a7938b9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/algo/binarysearch/BinarySearchApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/algo/linearsearch/LinearApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/CircularLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/QueueLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/circulalarlinkedlist/StackLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/DoublyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/doublylinkedlist/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/linkedlist/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/linkedlist/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/IQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/singlyLinkedList/SinglyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/AppStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/GenericStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/iStack.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +36,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DataStructures$App.ic" NAME="App Coverage Results" MODIFIED="1529177022253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>ds.circulalarlinkedlist.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/DataStructAlgo$InsertionSortApp.ic" NAME="InsertionSortApp Coverage Results" MODIFIED="1531174539362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>algo.insertionsort.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructures$App.ic" NAME="App Coverage Results" MODIFIED="1529177022253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ds.circulalarlinkedlist.*</FILTER>
     </SUITE>
   </component>
   <component name="FileEditorManager">
@@ -26,7 +48,7 @@
       <file leaf-file-name="InsertionSortApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algo/insertionsort/InsertionSortApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="580">
               <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
             </state>
           </provider>
@@ -35,14 +57,8 @@
       <file leaf-file-name="MergeSortApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
-              <folding>
-                <element signature="e#584#585#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="39">
+              <caret line="5" column="127" selection-start-line="5" selection-start-column="127" selection-end-line="5" selection-end-column="127" />
             </state>
           </provider>
         </entry>
@@ -104,9 +120,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -114,31 +132,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,7 +321,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -321,10 +333,10 @@
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.32636815" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32893288" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" visible="true" weight="0.17090909" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" visible="true" weight="0.18627451" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13447782" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1369936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -346,12 +358,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.46659708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -361,7 +373,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -619,7 +631,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algo/insertionsort/InsertionSortApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="580">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
@@ -650,14 +662,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
-          <folding>
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="39">
+          <caret line="5" column="127" selection-start-line="5" selection-start-column="127" selection-end-line="5" selection-end-column="127" />
         </state>
       </provider>
     </entry>
