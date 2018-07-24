@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795842f1-fb58-496f-91db-dea67a7938b9" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructures/algo/binarysearch/BinarySearchApp.class" beforeDir="false" />
@@ -26,6 +27,9 @@
       <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/GenericStack.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/Stack.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructures/ds/stack/iStack.class" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java" afterDir="false" />
+>>>>>>> f1c1fde83f612c5a5641d4fdb06915636db843e3
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +61,13 @@
       <file leaf-file-name="MergeSortApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="39">
               <caret line="5" column="127" selection-start-line="5" selection-start-column="127" selection-end-line="5" selection-end-column="127" />
+=======
+            <state relative-caret-position="359">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+>>>>>>> f1c1fde83f612c5a5641d4fdb06915636db843e3
             </state>
           </provider>
         </entry>
@@ -147,6 +156,28 @@
               <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interviewcake" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> f1c1fde83f612c5a5641d4fdb06915636db843e3
           </expand>
           <select />
         </subPane>
@@ -321,19 +352,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
+=======
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+>>>>>>> f1c1fde83f612c5a5641d4fdb06915636db843e3
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32893288" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3272727" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.47763577" side_tool="true" weight="0.36119404" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.32636815" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.3260606" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32893288" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" visible="true" weight="0.18627451" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" weight="0.17090909" />
+>>>>>>> f1c1fde83f612c5a5641d4fdb06915636db843e3
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1369936" />
@@ -346,7 +386,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32960597" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3278302" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -393,9 +432,23 @@
           <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="58" />
+      <option name="time" value="61" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="leftArray" />
+        <watch expression="rightArray" />
+        <watch expression="lValue" />
+        <watch expression="rValue" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ds/queue/IQueue.java">
@@ -662,8 +715,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algo/mergesort/MergeSortApp.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="39">
           <caret line="5" column="127" selection-start-line="5" selection-start-column="127" selection-end-line="5" selection-end-column="127" />
+=======
+        <state relative-caret-position="359">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+>>>>>>> f1c1fde83f612c5a5641d4fdb06915636db843e3
         </state>
       </provider>
     </entry>
