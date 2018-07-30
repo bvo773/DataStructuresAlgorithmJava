@@ -6,6 +6,7 @@ public class QuickSortApp{
         quickSort(inputArray, 0, inputArray.length-1);
 
         printArray(inputArray);
+        System.out.println(reverseString("binh", ""))  ;
     }
 
 
@@ -40,6 +41,19 @@ public class QuickSortApp{
         int temp = array[i];
         array[i] = array[j];
         array[j] = temp;
+    }
+
+    // 'b i n h' -> 'h i n b'
+    //  0 1 2 3
+    public static String reverseString(String string, String reverseString) {
+        int length = string.length() - 1;
+
+
+        if (length >= 0) {
+            reverseString += string.charAt(length);
+            reverseString(string.substring(0, length), reverseString);
+        }
+        return reverseString;
     }
 
 }
