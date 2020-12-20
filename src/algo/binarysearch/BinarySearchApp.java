@@ -22,8 +22,8 @@ public class BinarySearchApp {
     }
 
     public static int binhBinarySearch(int[] array, int target) {
-        int left = 0;
-        int right = array.length - 1;
+        int left = 0; //counts from 0
+        int right = array.length - 1; // so -1 from the length of array
 
         while (left <= right) {
             int mid = (left + right) / 2;
@@ -31,13 +31,13 @@ public class BinarySearchApp {
             else if (array[mid] > target) { right = mid - 1; }
             else if (array[mid] < target) { left = mid + 1; }
         }
-        return -1;
+        return -1; // if no target value exists in array
     }
 
     public static void main(String[] args) {
         //int[] arr = new int[] {3, 11, 21, 29, 41, 54, 61, 78, 110, 127};
         //System.out.println(binarySearch(78, arr));
-        int[] arr = new int[] {1,2,3,4,5};
+        int[] arr = new int[] {1,2,3,4,5}; // target = 1
         int target = 5;
         System.out.println(binhBinarySearch(arr, target));
     }
